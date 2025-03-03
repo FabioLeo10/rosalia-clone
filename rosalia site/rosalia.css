@@ -1,0 +1,72 @@
+/* [] {} */
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+.up{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+#socials>a>img{
+  height: 40px;
+  margin-top: 0px;
+}
+#logo>h1{
+    height: 85px;
+    
+}
+
+.tour>a>img{
+    height: 50px;
+}
+
+.bio>a>img{
+    height: 43px;
+}
+
+.video>a>img{
+    height: 43px;
+}
+
+.merch>a>img{
+    height: 45px;
+}
+
+.subscribe>a>img{
+    height: 66px;
+}
+
+.menu-location { 
+    position: fixed;
+    z-index: 10; 
+}
+
+.menu-location.menu-location-top{
+    top: 20px;
+}
+
+.menu-location.menu-location-bottom { 
+    bottom: 20px; 
+}
+.menu-location.menu-location-left { 
+    left: 30px; 
+}
+.menu-location.menu-location-center { 
+    left: 50%; width: 106px; margin-left: -53px; text-align: center; 
+}
+.menu-location.menu-location-right { 
+    right: 20px;
+}img
+
+.post>a>img{
+    
+  width: 550px;
+  height: 550px;
+   
+}
